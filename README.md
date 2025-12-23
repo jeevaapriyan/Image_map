@@ -215,11 +215,11 @@ It’s a favorite for sunrise/sunset views and cityscapes.<br>
 
 
 # OUTPUT
-Image_map/pot/Screenshot 2025-12-23 225621.png
-Image_map/pot/Screenshot 2025-12-23 225646.png
-Image_map/pot/Screenshot 2025-12-23 225657.png
-Image_map/pot/Screenshot 2025-12-23 225705.png
-Image_map/pot/Screenshot 2025-12-23 225729.png
-Image_map/pot/Screenshot 2025-12-23 225738.png
+![alt text](<pot/Screenshot 2025-12-23 225621.png>)
+![alt text](<pot/Screenshot 2025-12-23 225729.png>)
+![alt text](<pot/Screenshot 2025-12-23 225657.png>)
+![alt text](<pot/Screenshot 2025-12-23 225705.png>)
+![alt text](<pot/Screenshot 2025-12-23 225646.png>)
+![alt text](<pot/Screenshot 2025-12-23 225621.png>)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
