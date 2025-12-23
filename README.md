@@ -224,12 +224,7 @@ It’s a favorite for sunrise/sunset views and cityscapes.<br>
 </body>
 ```
 # OUTPUT
-<img width="612" height="426" alt="Screenshot 2025-12-19 023543" src="https://github.com/user-attachments/assets/5c098718-85ff-4c52-92a6-2ca8e05355fc" />
-<img width="1035" height="266" alt="Screenshot 2025-12-19 023450" src="https://github.com/user-attachments/assets/b60cf13a-ae33-4322-b166-988bed4729cf" />
-<img width="1030" height="368" alt="Screenshot 2025-12-19 023503" src="https://github.com/user-attachments/assets/68b3d297-0673-4307-af97-47f307e42e56" />
-<img width="1037" height="434" alt="Screenshot 2025-12-19 023512" src="https://github.com/user-attachments/assets/64415667-4b30-4abd-8167-fb9ef3e1a539" />
-<img width="1036" height="306" alt="Screenshot 2025-12-19 023521" src="https://github.com/user-attachments/assets/648ee90c-6cb6-4af8-92f0-5635d6ede37d" />
-<img width="1036" height="383" alt="Screenshot 2025-12-19 023531" src="https://github.com/user-attachments/assets/90826bc2-7fd0-4867-a035-3e78ba251a23" />
+
 
 
 
