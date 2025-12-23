@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:28/11/25
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -211,7 +211,7 @@ Photography Spot:<br>
 It’s a favorite for sunrise/sunset views and cityscapes.<br>
     </p>
 </body>
-
+```
 
 
 # OUTPUT
